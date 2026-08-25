@@ -105,6 +105,7 @@ Here are a few highlights featured on the portfolio:
 | 🎯 **Smart Quiz System (O/L ICT)** | `Python` `Flask` `JS` `HTML/CSS` | Interactive web portal for O/L ICT students with instant evaluation. | [Repository](https://github.com/KawyaDissanayaka/Smart-Quiz-System.git) |
 | 💼 **AI Talent Hub** | `ASP.NET Core` `SQL Server` `OpenAI` | AI-driven resume parser and job matching engine for recruiters and candidates. | [Repository](https://github.com/KawyaDissanayaka/AI-talent-Hub-System.git) |
 | 🌾 **AgroSense IoT** | `ESP32` `React` `Flask` `MySQL` | IoT smart agriculture telemetry & automated irrigation dashboard. | Demo in Portfolio |
+| 🛡️ **CryptoShield** | `Python` `Cryptography` `AES-256` `Security` | Advanced cryptographic data protection, file encryption & payload security suite. | [Repository](https://github.com/KawyaDissanayaka/CryptoShield.git) |
 
 ---
 
