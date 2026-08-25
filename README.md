@@ -4,7 +4,8 @@
   <p><strong>A modern, responsive, and interactive developer portfolio showcasing full-stack projects, skills, education, and experience.</strong></p>
 
   <p>
-    <a href="https://kawyadissanayaka.github.io/MY-portfolio/"><strong>🌐 View Live Portfolio »</strong></a>
+    <a href="https://kawya-portfolio-site.web.app"><strong>🔥 View Live on Google Firebase »</strong></a> &nbsp;|&nbsp;
+    <a href="https://kawyadissanayaka.github.io/MY-portfolio/"><strong>🌐 GitHub Pages »</strong></a>
   </p>
 
   <!-- Badges -->
